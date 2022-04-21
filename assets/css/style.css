@@ -1,0 +1,23 @@
+/**header styling**/
+
+#logo{
+    font-size: larger;
+    color: orangered;
+    
+}
+
+#links{
+    text-align: right;
+    float: right;
+    
+}
+/** cover image styling **/
+#outer-image{
+   
+    overflow: hidden;
+    position: relative;
+}
+#cover-image{
+   background: url('../images/pexels-yan-krukov-8436690.jpg');
+   
+}
